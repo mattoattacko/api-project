@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "Matthew McQuain",
   "license": "ISC",
   "dependencies": {
     "@babel/plugin-transform-async-to-generator": "^7.1.0",
